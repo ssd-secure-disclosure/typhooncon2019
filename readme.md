@@ -8,4 +8,11 @@ TyphoonCon focuses on highly technical offensive security issues such as vulnera
 
 ## Presentations
 
-- []()
+- [Ben Sparkes - Totally Not Spyware: Jailbreaking from the Browser](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Ben%20Sparkes%20-%20Totally%20Not%20Spyware_%20Jailbreaking%20from%20the%20Browser.pdf)
+- [Boris Larin, Alexander Liskin - Overview of the latest Windows OS kernel exploits found in the wild](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Boris%20Larin%20_%20Alexander%20Liskin%20-%20Overview%20of%20the%20latest%20Windows%20OS%20kernel%20exploits%20found%20in%20the%20wild_TyphoonCon.pdf)
+- [Brandon Azad - voucher_swap](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Brandon%20Azad%20-%20voucher_swap.pdf)
+- [Jeremy Fetiveau - Attacking TurboFan](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Jeremy%20Fetiveau%20-%20Attacking%20TurboFan.pdf)
+- [Ki Chan Ahn - Exploiting the Magellan bug on Chrome](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Ki%20Chan%20Ahn%20-%20Exploiting%20the%20Magellan%20bug%20on%20Chrome%20(Updated)%20without%20speaker%20notes.pptx)
+- [Paolo Stagno - A Drone Tale](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Paolo%20Stagno%20-%20A%20Drone%20Tale.pdf)
+- [Seunghun Han - Betrayal of Reputation](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Seunghun%20Han%20-%20Betrayal%20of%20Reputation.pdf)
+- [Valentina Palacin - A Story on DNS Attacks: Once Upon a Time in the West](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Valentina%20Palacin%20-%20DNSAttacks-OnceUponATimeInTheWest.pptx)

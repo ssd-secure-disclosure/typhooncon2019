@@ -15,6 +15,7 @@ TyphoonCon focuses on highly technical offensive security issues such as vulnera
 - [Brandon Azad - voucher_swap](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Brandon%20Azad%20-%20voucher_swap.pdf)
 - [Jeremy Fetiveau - Attacking TurboFan](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Jeremy%20Fetiveau%20-%20Attacking%20TurboFan.pdf)
 - [Ki Chan Ahn - Exploiting the Magellan bug on Chrome](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Ki%20Chan%20Ahn%20-%20Exploiting%20the%20Magellan%20bug%20on%20Chrome%20(Updated)%20without%20speaker%20notes.pptx)
+- [Kirils Solovjovs - RouterOS Vulnerabilities and Malware Campaigns](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Kirils%20Solovjovs%20-%20RouterOS%20vulnerabilities%20and%20malware%20campaigns.pdf)
 - [Paolo Stagno - A Drone Tale](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Paolo%20Stagno%20-%20A%20Drone%20Tale.pdf)
 - [Seunghun Han - Betrayal of Reputation](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Seunghun%20Han%20-%20Betrayal%20of%20Reputation.pdf)
 - [Valentina Palacin - A Story on DNS Attacks: Once Upon a Time in the West](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Valentina%20Palacin%20-%20DNSAttacks-OnceUponATimeInTheWest.pptx)

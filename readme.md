@@ -23,7 +23,7 @@ TyphoonCon focuses on highly technical offensive security issues such as vulnera
 
 You can reach us at one of the following:
 
-Our website at https://typhooncon.com/
-For general information: info@typhooncon.com
-For sponsorship offer: sponsor@typhooncon.com
+Our website at https://typhooncon.com/  
+For general information: info@typhooncon.com  
+For sponsorship offer: sponsor@typhooncon.com  
 For speaking request: cfp@typhooncon.com

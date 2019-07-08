@@ -19,6 +19,7 @@ TyphoonCon focuses on highly technical offensive security issues such as vulnera
 - [Paolo Stagno - A Drone Tale](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Paolo%20Stagno%20-%20A%20Drone%20Tale.pdf)
 - [Seunghun Han - Betrayal of Reputation](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Seunghun%20Han%20-%20Betrayal%20of%20Reputation.pdf)
 - [Valentina Palacin - A Story on DNS Attacks: Once Upon a Time in the West](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Valentina%20Palacin%20-%20DNSAttacks-OnceUponATimeInTheWest.pptx)
+- [Yongtao Wang, Yang Zhang - NTLM Relay Risk Is Coming: A New Exploit Technique Makes It Reborn]()
 
 ## Contact
 

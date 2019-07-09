@@ -11,7 +11,7 @@ The winners:
 * Third Place: Peace-Maker @jhartung10
 
 ## Writeups
-- [Niklas Beritfeld](Niklas%20Breitfeld)
+- [Niklas Breitfeld](Niklas%20Breitfeld)
 - [Tom Dohrmann](Tom%20Dohrmann)
 - [Peace-Maker](Peace-Maker)
 

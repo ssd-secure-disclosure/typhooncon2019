@@ -1,4 +1,4 @@
-# Niklas Beritfeld - Writeup
+# Niklas Breitfeld - Writeup
 
 after reversing the binary i found out that the Thread ID which each accepted
 connection uses is only stored in a byte, while the server sockets listens for

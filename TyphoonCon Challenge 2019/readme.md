@@ -15,7 +15,7 @@ The winners:
 - [Tom Dohrmann](Tom%20Dohrmann)
 - [Peace-Maker](Peace-Maker)
 
-[Challenge](challenge.md)
+[The Challenge](challenge.md)
 
 ![Typhoon - All offensive security conference](https://typhooncon.com/wp-content/uploads/2018/12/typhooncon-logo-blue-200x50.png)
 ![SSD - Securiteam Secure Disclosure](https://typhooncon.com/wp-content/uploads/2019/04/ssd-black-on-white-e1556025336916.png)

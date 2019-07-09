@@ -11,9 +11,9 @@ The winners:
 * Third Place: Peace-Maker @jhartung10
 https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/TyphoonCon%20Challenge%202019/Niklas%20Breitfeld/brymko_writeup.md
 ## Writeups
-- [Niklas Beritfeld](Niklas%20Breitfeld/readme.md)
-- [Tom Dohrmann](Tom%20Dohrmann/readme.md)
-- [Peace-Maker](Peace-Maker/readme.md)
+- [Niklas Beritfeld](Niklas%20Breitfeld)
+- [Tom Dohrmann](Tom%20Dohrmann)
+- [Peace-Maker](Peace-Maker)
 
 [Challenge](challenge.md)
 

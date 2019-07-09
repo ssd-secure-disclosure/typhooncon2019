@@ -21,6 +21,8 @@ TyphoonCon focuses on highly technical offensive security issues such as vulnera
 - [Valentina Palacin - A Story on DNS Attacks: Once Upon a Time in the West](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Valentina%20Palacin%20-%20DNSAttacks-OnceUponATimeInTheWest.pptx)
 - [Yongtao Wang, Yang Zhang - NTLM Relay Risk Is Coming: A New Exploit Technique Makes It Reborn](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Yongtao%20Wang%20%26%20Yang%20Zhang%20-%20NTLM%20Relay%20Risk%20Is%20Coming_%20A%20New%20Exploit%20Technique%20Makes%20It%20Reborn.pdf)
 
+## [TyphoonCon Challenge 2019](TyphoonCon%20Challenge%202019)
+
 ## Contact
 
 You can reach us at one of the following:

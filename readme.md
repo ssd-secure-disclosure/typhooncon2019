@@ -10,7 +10,7 @@ TyphoonCon focuses on highly technical offensive security issues such as vulnera
 
 ## Presentations
 
-- [Altaf Shaik - New Attacks Targeting 5G Networks]()
+- [Altaf Shaik - New Attacks Targeting 5G Networks](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Altaf%20Shaik%20-%20New%20attacks%20targeting%205G%20networks.pdf)
 - [Ben Sparkes - Totally Not Spyware: Jailbreaking from the Browser](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Ben%20Sparkes%20-%20Totally%20Not%20Spyware_%20Jailbreaking%20from%20the%20Browser.pdf)
 - [Boris Larin, Alexander Liskin - Overview of the latest Windows OS kernel exploits found in the wild](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Boris%20Larin%20_%20Alexander%20Liskin%20-%20Overview%20of%20the%20latest%20Windows%20OS%20kernel%20exploits%20found%20in%20the%20wild_TyphoonCon.pdf)
 - [Brandon Azad - voucher_swap](https://github.com/ssd-secure-disclosure/typhooncon2019/raw/master/Brandon%20Azad%20-%20voucher_swap.pdf)
